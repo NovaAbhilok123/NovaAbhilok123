@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NovaAbhilok123
 - 👀 I’m interested in physics,coding,gaming
 - 🌱 I’m currently learning  java
-- 💞️ I’m looking to collaborate on ...
+  
 - 📫 How to reach me  insta;abhilok__reddy
 
 <!---
