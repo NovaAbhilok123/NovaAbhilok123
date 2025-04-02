@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @NovaAbhilok123
-- 👀 I’m interested in physics,coding,gaming
-- 🌱 I’m currently learning  java
+- 👋 Hi, I’m @NovaAbhilok1
   
-- 📫 How to reach me  insta;abhilok__reddy
 
 <!---
 NovaAbhilok123/NovaAbhilok123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
